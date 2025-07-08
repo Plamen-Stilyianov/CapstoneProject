@@ -12,3 +12,4 @@ finta
 transformers
 tensorflow
 statsmodels
+yfinance
